@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: MIT
-// This is for DEMO purposes only and should not be used in production!
+// This is for DEMO purposes only
 
 pragma solidity ^0.8.10;
 
